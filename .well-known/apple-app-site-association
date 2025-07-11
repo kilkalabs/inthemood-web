@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "5HH8T3288Z.com.kilkalabs.inthemood" ],
+        "components": [
+          {
+            "/": "/pair",
+            "comment": "Matches the specific path for app pairing."
+          }
+        ]
+      }
+    ]
+  }
+}

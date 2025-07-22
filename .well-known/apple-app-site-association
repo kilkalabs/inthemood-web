@@ -7,6 +7,10 @@
           {
             "/": "/pair",
             "comment": "Matches the specific path for app pairing."
+          },
+          {
+            "/": "/auth/callback",
+            "comment": "Matches the auth callback path for authentication."
           }
         ]
       }
